@@ -16,7 +16,7 @@ function App() {
     }).then(console.log("success"))
   }
   useEffect(()=>{
-    fetch('http://localhost:8080/api/v1/expense',{method:'GET',mode:'cors'})
+    fetch('https://expansetracker.onrender.com/expense',{method:'GET',mode:'cors'})
     .then(Response => Response.json())
     .then(json=>{updateData(json)});
     },[x])
