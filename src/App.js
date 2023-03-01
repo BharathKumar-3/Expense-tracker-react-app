@@ -8,7 +8,7 @@ function App() {
   const [expesnses,updateData] = useState([])
   const onAddexpenses = (value)=>{
     updateData([value,...expesnses]);
-    fetch('http://localhost:8080/api/v1/expense',{
+    fetch('https://expansetracker.onrender.com/expense',{
       method:'POST',
       mode:'cors',
       headers: {'Content-Type': 'application/json'},
