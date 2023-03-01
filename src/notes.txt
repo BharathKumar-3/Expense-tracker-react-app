@@ -1,0 +1,11 @@
+Important arr functions :
+        -> map
+        -> filter
+        -> every
+        -> for each
+        -> sum
+        -> find()
+        -> join()
+        -> keys()
+        -> includes()
+        -> concat()

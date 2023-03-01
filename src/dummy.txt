@@ -1,0 +1,18 @@
+  // const DUMMY_DATA = [
+  //   {
+  //     title: 'Groceries',
+  //     amount: 94.12,
+  //     Date: "2021-7-14",
+  //   },
+  //   { id: 'e2', title: 'New Mobile', amount: 799.49, Date: new Date(2020, 2, 12) },
+  //   {
+  //     title: 'Car Repair',
+  //     amount: 294.67,
+  //     Date: "2021-2-28",
+  //   },
+  //   {
+  //     title: 'New work desk',
+  //     amount: 450,
+  //     Date: "2021-5-21",
+  //   }
+  // ];
